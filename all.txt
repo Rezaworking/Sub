@@ -18,3 +18,5 @@ trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fwor
 --------------------------------------------------
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#%40zero2🫆✔️
 --------------------------------------------------
+vless://4fdd75aa-1a40-4305-9366-4040d5728049@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=testconnection1.iranvatanam.com&type=httpupgrade#Telegram%20%3A%20%40zeropro🫆
+--------------------------------------------------
