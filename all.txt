@@ -8,3 +8,5 @@ vless://1f58547b-fc9e-4a82-a72f-0c996b852c0c@104.17.121.71:2083?mode=auto&path=%
 --------------------------------------------------
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&encryption=none&headerType=none&type=tcp#%40zero1✅
 --------------------------------------------------
+vless://4889ee33-74e5-4819-86d8-b2a1a5bc8f46@34.213.172.16:22189?security=reality&encryption=none&pbk=5tUZskKOCKpjz3j7hmuYaQHNfE1QRtZI9P62qvSs1GY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=47b6d14ff477fe59#%E2%9C%85%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20telegram%20%E2%9E%AA%40zero
+--------------------------------------------------
